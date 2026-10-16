@@ -8,7 +8,7 @@ Part of Harvard study materials and as submodule in [detached repository](https:
 
 ### Technologies
 
-Development: Visual Studio Code, artificial intelligence assistance
+Development: Visual Studio Code  
 Programming languages: JavaScript, Python  
 Framework: Flask  
 Markup languages: HTML, CSS  
